@@ -2,23 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc2bc62-6cef-40df-bb7d-4e8dde1697ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3-strategy-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EraseTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDrawFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LineShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OvalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RectShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScribbleCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScribbleCanvasListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScribbleTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoEndsShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoEndsTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clear.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eraser.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eraser2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oval.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rectangle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scribble.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scribbles.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EraseTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EraseTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDrawFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDrawFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LineShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LineShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OvalShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OvalShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RectShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScribbleCanvasListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScribbleCanvasListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScribbleTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScribbleTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoEndsShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoEndsShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoEndsTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoEndsTool.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +53,32 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/ASD GUTHRIE/Asd from ahmed/ASD/Labs/lab1",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ASD GUTHRIE\Assignment 3\lab-3-strategy-pattern\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JDrawFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDrawFrame" />
+      <module name="lab-3-strategy-pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDrawFrame" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656034051692</updated>
-      <workItem from="1656034054456" duration="1723000" />
+      <workItem from="1656034054456" duration="17138000" />
     </task>
     <servers />
   </component>
